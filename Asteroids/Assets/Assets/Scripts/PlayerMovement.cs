@@ -67,7 +67,7 @@ public class PlayerMovement : MonoBehaviour
             pos.x = -widthOrtho + shipBoundaryRadius;
         }
 
-        // Finally, update our position!!
+        // Finally, update our position!
         transform.position = pos;
 
 
